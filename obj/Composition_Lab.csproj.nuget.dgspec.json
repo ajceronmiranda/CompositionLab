@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ajcer\\Documents\\Source\\repos\\Composition_Lab\\Composition_Lab.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ajcer\\Documents\\Source\\repos\\Composition_Lab\\Composition_Lab.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ajcer\\Documents\\Source\\repos\\Composition_Lab\\Composition_Lab.csproj",
+        "projectName": "Composition_Lab",
+        "projectPath": "C:\\Users\\ajcer\\Documents\\Source\\repos\\Composition_Lab\\Composition_Lab.csproj",
+        "packagesPath": "C:\\Users\\ajcer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ajcer\\Documents\\Source\\repos\\Composition_Lab\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ajcer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\ajcer\Documents\Source\repos\Composition_Lab\bin\Debug\net6.0\Composition_Lab.exe
+C:\Users\ajcer\Documents\Source\repos\Composition_Lab\bin\Debug\net6.0\Composition_Lab.deps.json
+C:\Users\ajcer\Documents\Source\repos\Composition_Lab\bin\Debug\net6.0\Composition_Lab.runtimeconfig.json
+C:\Users\ajcer\Documents\Source\repos\Composition_Lab\bin\Debug\net6.0\Composition_Lab.dll
+C:\Users\ajcer\Documents\Source\repos\Composition_Lab\bin\Debug\net6.0\ref\Composition_Lab.dll
+C:\Users\ajcer\Documents\Source\repos\Composition_Lab\bin\Debug\net6.0\Composition_Lab.pdb
+C:\Users\ajcer\Documents\Source\repos\Composition_Lab\obj\Debug\net6.0\Composition_Lab.csproj.AssemblyReference.cache
+C:\Users\ajcer\Documents\Source\repos\Composition_Lab\obj\Debug\net6.0\Composition_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcer\Documents\Source\repos\Composition_Lab\obj\Debug\net6.0\Composition_Lab.AssemblyInfoInputs.cache
+C:\Users\ajcer\Documents\Source\repos\Composition_Lab\obj\Debug\net6.0\Composition_Lab.AssemblyInfo.cs
+C:\Users\ajcer\Documents\Source\repos\Composition_Lab\obj\Debug\net6.0\Composition_Lab.csproj.CoreCompileInputs.cache
+C:\Users\ajcer\Documents\Source\repos\Composition_Lab\obj\Debug\net6.0\Composition_Lab.dll
+C:\Users\ajcer\Documents\Source\repos\Composition_Lab\obj\Debug\net6.0\ref\Composition_Lab.dll
+C:\Users\ajcer\Documents\Source\repos\Composition_Lab\obj\Debug\net6.0\Composition_Lab.pdb
+C:\Users\ajcer\Documents\Source\repos\Composition_Lab\obj\Debug\net6.0\Composition_Lab.genruntimeconfig.cache
