@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Composition_Lab;
 
-Author myAuthor = new Author("Jeff Lucas", 'm', "jslucas@sba.ua.edu");
+Author myAuthor = new Author("Jeff Lucas", 'm', "jslucas@cba.ua.edu");
 Console.WriteLine(myAuthor.ToString());
 
 Book myBook = new Book("12243", "My Book, Your Book", myAuthor);
